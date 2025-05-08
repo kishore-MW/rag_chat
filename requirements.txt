@@ -1,0 +1,11 @@
+Pillow
+python-dotenv
+psycopg2-binary
+pytesseract
+pdfplumber
+pdf2image
+google-generativeai
+boto3
+streamlit
+pymupdf
+docling
